@@ -1,0 +1,4 @@
+-> use npm install --legacy-peer-deps to install all the pending dependencies
+-> axios -> to make api calls
+-> material ui -> for ui related stuff
+-> router-dom -> for routing related stuff
