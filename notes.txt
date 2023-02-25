@@ -2,3 +2,5 @@
 -> axios -> to make api calls
 -> material ui -> for ui related stuff
 -> router-dom -> for routing related stuff
+
+-> path= '/video/:id' -> every video will have its specific id to route to 
